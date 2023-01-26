@@ -18,7 +18,6 @@ files {
 data_file 'SCENARIO_POINTS_OVERRIDE_PSO_FILE' 'sp_manifest.ymt'
 
 server_scripts {
-    'version_check.lua',
 }
 
 dependency '/assetpacks'
